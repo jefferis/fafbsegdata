@@ -1,0 +1,13 @@
+Package: fafbsegdata
+Type: Package
+Title: Additional version data to accompany fafbseg data
+Version: 0.1.0
+Authors@R: person("Gregory","Jefferis", email="jefferis@gmail.com", 
+    role = c("aut", "cre"), comment = c(ORCID = "0000-0002-0587-9355"))
+Description: A package to distribute versioned support data for the fafbseg 
+    package. Using a separate package for large data objects should avoid
+    repository churn.
+Encoding: UTF-8
+LazyData: true
+License: GPL-3
+RoxygenNote: 6.0.1
