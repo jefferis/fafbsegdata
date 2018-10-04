@@ -2,6 +2,7 @@
 #'
 #'   This presently only provides a data object
 #'   \code{\link{segment_merge_groups.dt}} used by the \code{fafbseg} package.
+#' @aliases fafbsegdata
 #' @examples
 #' \donttest{
 #' library(fafbseg)

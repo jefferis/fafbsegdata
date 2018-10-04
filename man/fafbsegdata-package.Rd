@@ -2,8 +2,9 @@
 % Please edit documentation in R/fafbsegdata-package.R
 \docType{package}
 \name{fafbsegdata-package}
-\alias{fafbsegdata}
 \alias{fafbsegdata-package}
+\alias{_PACKAGE}
+\alias{fafbsegdata}
 \title{fafbsegdata: Additional version data to accompany fafbseg data}
 \description{
 A package to distribute versioned support data for the fafbseg
@@ -15,6 +16,14 @@ repository churn.
 library(fafbseg)
 find_merged_segments(7186840767)
 }
+}
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/jefferis/fafbsegdata}
+  \item Report bugs at \url{https://github.com/jefferis/fafbsegdata/issues}
+}
+
 }
 \author{
 \strong{Maintainer}: Gregory Jefferis \email{jefferis@gmail.com} (0000-0002-0587-9355)
